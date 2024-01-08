@@ -1,0 +1,15 @@
+C:\Users\areks\sources\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.exe
+C:\Users\areks\sources\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.deps.json
+C:\Users\areks\sources\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.runtimeconfig.json
+C:\Users\areks\sources\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.dll
+C:\Users\areks\sources\repos\CodeWars\CodeWars\bin\Debug\net6.0\CodeWars.pdb
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfoInputs.cache
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.AssemblyInfo.cs
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.csproj.CoreCompileInputs.cache
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.dll
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\refint\CodeWars.dll
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.pdb
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.genruntimeconfig.cache
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\ref\CodeWars.dll
+C:\Users\areks\sources\repos\CodeWars\CodeWars\obj\Debug\net6.0\CodeWars.sourcelink.json

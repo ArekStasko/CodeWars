@@ -1,3 +1,5 @@
 ﻿using CodeWars;
+using CodeWars.ArrayHelpers;
+using CodeWars.FormatNumber;
 
-Console.WriteLine(Test.TimeConvert(134));
+Console.WriteLine(FormatNumber.NumberFormat(5678545));
