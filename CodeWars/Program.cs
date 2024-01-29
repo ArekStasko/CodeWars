@@ -1,5 +1,7 @@
 ﻿using CodeWars.bestMatch;
+using CodeWars.NonRepeatingChar;
+using CodeWars.ProdFibNumbers;
 using CodeWars.TimeFormat;
 
-Console.WriteLine("Should be: 99:59:59");
-Console.WriteLine(TimeFormat.GetReadableTime(359999));
+Console.WriteLine("Should be: e");
+Console.WriteLine(FirstNonRepeatingChar.FirstNonRepeatingLetter("a"));
